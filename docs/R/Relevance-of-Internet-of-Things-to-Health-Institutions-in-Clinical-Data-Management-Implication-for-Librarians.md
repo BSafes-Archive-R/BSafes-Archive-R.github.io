@@ -68,7 +68,7 @@ Library Philosophy and Practice (e-journal), Libraries at University of Nebraska
 
 ### Onyinyechi G. Ossai
 {: .no_toc }
-*University of Nigeria, Nsukka *
+*University of Nigeria, Nsukka*
 
 <div class="youtube-container">
 <iframe width="100%" src="https://www.youtube.com/embed/3Ya341o33yE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="youtube-video"></iframe>
