@@ -60,12 +60,9 @@ Faculty Work Comprehensive List
 </div>
 **Video:** Dordt University Mission and Vision 
 
-**Recommended Citation**
-Xu, Lei, Lin Chen, Zhimin Gao, Hiram Moya, and Weidong Shi. 2021. “Reshaping the Landscape of the Future: Software-Defined Manufacturing.” Computer 54 (7): 27–36. https://doi.org/10.1109/ MC.2021.3074851.
 
 Follow this and additional works at: https://digitalcollections.dordt.edu/faculty_work
 {: .fs-2}
-
 
 1. TOC
 {:toc}
