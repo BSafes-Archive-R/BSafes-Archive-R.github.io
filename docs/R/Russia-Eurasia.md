@@ -81,7 +81,6 @@ This Regional and Comparative Law is brought to you for free and open access by 
 {:toc}
 
 
-## Russia/Eurasia
 #### Authors
 Kimberly Reed, Roman Buzko, Maria Grechishkina, Anastasia Herasimovich, Maryna Ilchuk, and Amanda Weir 
 
