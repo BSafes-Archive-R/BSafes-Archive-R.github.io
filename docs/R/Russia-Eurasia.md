@@ -86,7 +86,7 @@ Kimberly Reed, Roman Buzko, Maria Grechishkina, Anastasia Herasimovich, Maryna I
 
 ### Russia/Eurasia
 {: .no_toc }
-KIMBERLY REED, ROMAN BuzKo, MARIA GRECHISHKINA, ANASTASIA HERASIMOVICH, MARYNA ILCHUK, SERGEY KIM, AND AMANDA WEIR*
+KIMBERLY REED, ROMAN BuzKo, MARIA GRECHISHKINA, ANASTASIA HERASIMOVICH, MARYNA ILCHUK, SERGEY KIM, AND AMANDA WEIR
 
 This article discusses significant international legal developments in corporate law, arbitration law, energy law, data privacy, and religious freedom in Russia, Kazakhstan, Belarus, and Ukraine.
 
