@@ -55,9 +55,9 @@ The rules pertaining to transferring participation interests in a Russian LLC we
 
 Third, the structure of option agreements for participation interests was clarified and improved. As of January 15, 2016, an option agreement for a participation interest may be exercised through a notarized irrevocable offer, which an offeree can subsequently accept through unilateral notarized acceptance. This limits the risk that the offeror changes its mind after granting the option but before the actual transfer.
 
-### B. APPROVAL OF AJOR AND RELATED-PARTY TRANSACTIONS
+### B. APPROVAL OF MAJOR AND RELATED-PARTY TRANSACTIONS
 
-Effective January 1, 2017, new regulations for major and related-party transactions narrowed the scope of transactions subject to approval.<sup>2</sup> The definition of "major transactions" changed from a firm threshold of twentyfive percent of the corporate assets' book value to a more sophisticated criterion. Specifically, a transaction is now considered "maor" and subject to approval if it both (1) results in the termination of the company's business or changes the type or scale of its business; and (2) exceeds twenty-five percent of the company's assets' book value.
+Effective January 1, 2017, new regulations for major and related-party transactions narrowed the scope of transactions subject to approval.<sup>2</sup> The definition of "major transactions" changed from a firm threshold of twentyfive percent of the corporate assets' book value to a more sophisticated criterion. Specifically, a transaction is now considered "major" and subject to approval if it both (1) results in the termination of the company's business or changes the type or scale of its business; and (2) exceeds twenty-five percent of the company's assets' book value.
 
 With respect to related-party transactions, the new law abolished the requirement of prior approval by non-related participants and shifted the focus to reporting and subsequent control. In addition, whether a party is "related" to a transaction will no longer require only a twenty percent or more "affiliation" with the relevant company.<sup>3</sup> Instead, the new rules require "control" of the relevant company, defined as controlling more than fifty percent of the governing body's votes and appointing the sole executive body and/or more than fifty percent of the collective management body.<sup>4</sup> In practical terms, this significantly decreases the number of related-party
 
@@ -78,7 +78,7 @@ The rules for challenging major transactions and related-party transactions were
 
 As of December 21, 2016, Russian companies are required to identify and keep records on their beneficial owners.<sup>5</sup> A beneficial owner is defined as a person who ultimately owns, either directly or indirectly, a participation interest of more than twenty-five percent of an organization's share capital, or is able to control its actions. Russian companies are now required to: (1) undertake all reasonable and available measures to obtain information on the company's beneficial owners, including the owners' complete names, citizenships, dates of birth, passport data, copies of immigration documents (if applicable), addresses, and taxpayer identification numbers; (2) update such information at least once a year; (3) retain such information for a minimum of 5 years; <sup>6</sup> and (4) provide supporting documents upon the request of relevant governmental authorities. This duty of identification is enforced through newly introduced penalties of up to RUB 500,000 (approximately $8,000 USD) for failure to comply.<sup>7</sup>
 
-### D. "FOURTH ANTimONOPOLY PACKAGE"
+### D. "FOURTH ANTIMONOPOLY PACKAGE"
 
 Another set of legal changes pertains to antimonopoly (antitrust) law. The so-called "Fourth Antimonopoly Package"<sup>8</sup> took effect on January 5, 2016
 
